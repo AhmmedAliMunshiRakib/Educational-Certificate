@@ -9,12 +9,10 @@ These documents are shared for **verification, portfolio, and professional purpo
 
 ---
 
-##  Certificate List
-
 ###  Academic Qualification
 
 * **Four-Year Diploma in Engineering Certificate**
-  📄 `Four -Year Diploma in Engineering Certificate.jpg`
+  ![Four -Year Diploma in Engineering Certificate](https://github.com/user-attachments/assets/b185045e-2e87-4bbf-b3e3-9406ebb6abfd)
 
 
 ---
@@ -62,7 +60,7 @@ These documents are shared for **verification, portfolio, and professional purpo
 
 ---
 
-## 📫 Contact & Profiles
+##  Contact & Profiles
 
 * **GitHub:** [https://github.com/AhmmedAliMunshiRakib](https://github.com/AhmmedAliMunshiRakib)
 * **Twitter:** [https://x.com/rakib5839](https://x.com/rakib5839)
