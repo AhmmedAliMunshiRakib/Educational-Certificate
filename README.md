@@ -46,9 +46,9 @@ These documents are shared for **verification, portfolio, and professional purpo
 
 ##  About Me
 
-**Name:** Ahmmed Ali Munshi Rakib
-**Background:** Diploma in Engineering Graduate
-**Career Focus:** Data Analysis | Excel | Power BI
+* **Name:** Ahmmed Ali Munshi Rakib
+* **Background:** Diploma in Engineering Graduate
+* **Career Focus:** Data Analysis | Excel | Power BI
 
 ###  Technical Skills
 
