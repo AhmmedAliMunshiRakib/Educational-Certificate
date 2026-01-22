@@ -52,22 +52,6 @@ These documents are shared for **verification, portfolio, and professional purpo
 
 ###  Technical Skills
 
-* Microsoft Excel (Advanced)
-* Power BI
-* Data Analysis & Reporting
-* Dashboard Creation
-* Basic SQL & Python (Pandas, NumPy)
-
----
-
-##  About Me
-
-**Name:** Ahmmed Ali Munshi Rakib
-
-**Profession:** Data Analyst | Excel & Power BI Specialist
-
-###  Core Skills
-
 * Advanced Microsoft Excel (Formulas, Pivot Tables, Power Query)
 * Power BI Dashboard Development
 * Data Cleaning & Visualization
@@ -76,7 +60,8 @@ These documents are shared for **verification, portfolio, and professional purpo
 ---
 
 ##  Contact & Profiles
-
+* **Phone:** 01890499775
+* **Email:** ahmmed.ali.munshi@gmail.com
 * **GitHub:** [https://github.com/AhmmedAliMunshiRakib](https://github.com/AhmmedAliMunshiRakib)
 * **Twitter:** [https://x.com/rakib5839](https://x.com/rakib5839)
 
