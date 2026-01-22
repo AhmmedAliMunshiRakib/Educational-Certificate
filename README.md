@@ -60,14 +60,25 @@ These documents are shared for **verification, portfolio, and professional purpo
 
 ---
 
-## 📬 Contact
+##  About Me
 
-* Ahmmed Ali Muslim ( Rakib)
+**Name:** Ahmmed Ali Munshi Rakib
 
-* Data Analyst | Excel • SQL • Power BI
-* **Phone:**  01890499775
-* **Email:** ahmmed.ali.munshi@gmail.com
+**Profession:** Data Analyst | Excel & Power BI Specialist
+
+###  Core Skills
+
+* Advanced Microsoft Excel (Formulas, Pivot Tables, Power Query)
+* Power BI Dashboard Development
+* Data Cleaning & Visualization
+* Basic SQL & Python (Pandas, NumPy)
+
+---
+
+##  Contact & Profiles
+
 * **GitHub:** [https://github.com/AhmmedAliMunshiRakib](https://github.com/AhmmedAliMunshiRakib)
 * **Twitter:** [https://x.com/rakib5839](https://x.com/rakib5839)
+
 
 
