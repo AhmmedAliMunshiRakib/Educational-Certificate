@@ -60,8 +60,13 @@ These documents are shared for **verification, portfolio, and professional purpo
 
 ---
 
-##  Contact & Profiles
+## 📬 Contact
 
+* Ahmmed Ali Muslim ( Rakib)
+
+* Data Analyst | Excel • SQL • Power BI
+* **Phone:**  01890499775
+* **Email:** ahmmed.ali.munshi@gmail.com
 * **GitHub:** [https://github.com/AhmmedAliMunshiRakib](https://github.com/AhmmedAliMunshiRakib)
 * **Twitter:** [https://x.com/rakib5839](https://x.com/rakib5839)
 
